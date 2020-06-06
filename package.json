@@ -50,7 +50,7 @@
     "extends": "react-app"
   },
   "dependencies": {
-    "@webscopeio/react-textarea-autocomplete": "^1.2.2",
+    "@webscopeio/react-textarea-autocomplete": "^4.6.3",
     "bootstrap-sass": "^3.4.1",
     "classnames": "^2.1.5",
     "compression": "^1.6.2",
